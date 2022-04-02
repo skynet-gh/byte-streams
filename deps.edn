@@ -1,0 +1,4 @@
+{:paths ["src"]
+ :deps {io.github.skynet-gh/primitive-math {:git/tag "0.1.6+fix-single-segment-nses"
+                                            :git/sha "bfd7811"}
+        manifold/manifold {:mvn/version "0.1.9"}}}
